@@ -1,0 +1,39 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+.flex ul {
+  display: flex;
+}
+.countries li {
+  list-style-type: none;
+  /* padding-left: 20px; */
+  margin-left: 10px;
+}
+.input-text {
+  width: 60%;
+}
+.date {
+  margin-top: -6px;
+}
+.weather {
+  margin-top: -15px;
+}
+.designer {
+  display: flex;
+  justify-content: end;
+}
+.width {
+  width: 30%;
+  /* display:block; */
+}
+.repot {
+  display: flex;
+}
+/* small{
+  text-align: center;
+} */
+
+/* .font{
+  font-size: 25px;
+} */
