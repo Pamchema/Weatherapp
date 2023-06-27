@@ -37,3 +37,6 @@
 /* .font{
   font-size: 25px;
 } */
+.text-decoration-none{
+    text-decoration: none !important;
+}
